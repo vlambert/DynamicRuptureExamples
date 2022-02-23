@@ -1,0 +1,7 @@
+ipympl
+matplotlib
+mpl_interactions
+numpy
+pandas
+scipy
+voila
